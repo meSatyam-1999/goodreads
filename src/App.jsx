@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h1>Hello Goodreads</h1>
+      <h1 className='bg-amber-500 text-3xl font-bold'>Hello Goodreads</h1>
     </div>
   )
 }
