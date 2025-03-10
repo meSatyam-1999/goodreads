@@ -7,4 +7,5 @@
 - react-icons
 - eslint (auto import sort eslint setup)
 - Create Folders in src (assests,components,configs,helpers,layouts,pages,redux/slices,routes)
-- 
+- redux basic setup
+- install react router dom & create routes
